@@ -1,11 +1,9 @@
-
 import { View, Text } from 'react-native';
 
-
-export default function ExploreScreen() {
+export default function SettingsScreen() {
     return (
         <View>
-            <Text>22</Text>
+            <Text>Settings</Text>
         </View>
     );
 }
